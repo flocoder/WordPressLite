@@ -4,8 +4,8 @@ The main objective of creating this project is to create a most minimalistic ver
 ##How to use guide
 - 1. Download the package
 - 2. Upload and extract 
-- 3. Run http://yourwebsite.com/dbconfig.php from browser
-- 4. Change the site-url of table wp-option 
+- 3. Run http://yourwebsite.com
+- 4. Refresh again to implement
 
 ##Package includes
 - Latest WordPress package from (wordpress.org)
