@@ -4,7 +4,7 @@ The main objective of creating this project is to create a most minimalistic ver
 ##Why do you need WordPressLite?
 WordPressLite is copy, paste and starts running WordPress CMS without any configuration on the fly.
 
-##How to use guide
+##How to use guide 
 - 1. Download the package
 - 2. Upload and extract 
 - 3. Run http://example.com
