@@ -10,6 +10,13 @@ WordPressLite is copy, paste and starts running WordPress CMS without any config
 - 3. Run http://example.com
 - 4. Done
 
+##Default login
+User: admin
+Password: admin
+
+WARNING! Please change the username and password
+
+
 ##Package includes
 - WordPress 4.5.3 package from (wordpress.org) 
 - Flat file database with SQLite
