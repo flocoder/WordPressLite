@@ -16,6 +16,11 @@ Password: admin
 
 WARNING! Please change the username and password
 
+##Access database
+http://example.com/dbconfig.php
+Password: admin
+
+WARNING! Please change the the password (Edit file dbconfig.php)
 
 ##Package includes
 - WordPress 4.5.3 package from (wordpress.org) 
