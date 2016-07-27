@@ -1,5 +1,5 @@
 # WordPressLite - A ready made WordPress CMS package
-The main objective of creating this project is to create a most minimalistic version of WordPress with flat file database. As WordPress is evolving day by day, I think they are adding up too many things which are not required to run a very simple website. 
+The main objective of creating this project is to create a ready made WordPress package which just runs by copying and pasting the folder. No any strings attached. This is minimalistic version of WordPress with flat file database. Most of the sites don't need heavy configuration in the first place to start running. Just copy the folder and paste. 
 
 ##Why do you need WordPressLite?
 WordPressLite is copy, paste and starts running WordPress CMS without any configuration on the fly.
@@ -10,7 +10,8 @@ WordPressLite is copy, paste and starts running WordPress CMS without any config
 - 3. Run http://example.com
 - 4. Done
 
-##Default login
+##Default WordPress login
+Login URL: http://example.com/wp-admin
 User: admin
 Password: admin
 
