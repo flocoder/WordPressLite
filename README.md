@@ -6,7 +6,7 @@ WordPressLite is copy, paste and starts running WordPress CMS without any config
 
 ##How to use guide 
 - 1. Download the package
-- 2. Upload and extract 
+- 2. Upload
 - 3. Run http://example.com
 - 4. Done
 
