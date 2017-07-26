@@ -8,7 +8,6 @@ WordPressLite is copy, paste and starts running WordPress CMS without any config
 - 1. Download the package
 - 2. Upload
 - 3. Run http://example.com
-- 4. Done
 
 ##Default WordPress login
 Login URL: http://example.com/wp-admin
@@ -32,3 +31,4 @@ WARNING! Please change the the password (Edit file dbconfig.php)
 - Shortcodes Ultimate Plugin by Vladimir Anokhin
 - SQLite Integration plugin by Kojima Toshiyasu
 
+##Discalimer: By using WordPressLite you agree that you use the package by your own risk.
