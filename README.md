@@ -22,6 +22,9 @@ Password: admin
 
 WARNING! Please change the default password (Edit file dbconfig.php)
 
+### Post install 
+Update WordPress core files, themes and plugins to the latest versions.
+
 ### Package includes
 - WordPress 4.5.3 package from (wordpress.org) 
 - Flat file database with SQLite
