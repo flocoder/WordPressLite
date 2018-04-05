@@ -13,9 +13,9 @@ Following is the list of conditions best suitable to use this package:
 5. If your website hosting has limitation of creating certain number of MySQL databases.
 
 ### How to use guide 
-- 1. Download the package
-- 2. Upload
-- 3. Run http://example.com
+1. Download the package
+2. Upload 
+3. Run http://example.com
 
 ### Default WordPress login
 Login URL: http://example.com/app/wp-admin
