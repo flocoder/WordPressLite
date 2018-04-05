@@ -10,7 +10,7 @@ WordPressLite is copy, paste and starts running WordPress CMS without any config
 - 3. Run http://example.com
 
 ### Default WordPress login
-Login URL: http://example.com/wp-admin
+Login URL: http://example.com/app/wp-admin
 User: admin
 Password: admin
 
