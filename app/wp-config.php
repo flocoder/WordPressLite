@@ -18,6 +18,17 @@
  * @package WordPress
  */
 
+/** Enable this and change as per your URL setting */
+/*
+if ( getenv('HTTP_HOST') == 'localhost' ) {
+	define('WP_HOME', 'http://localhost/example'); 
+	define('WP_SITEURL', 'http://localhost/example/app'); 
+}else{
+	define('WP_HOME', 'http://example.com'); 
+	define('WP_SITEURL', 'http://example.com/app'); 
+}
+*/
+
 define( 'DISABLE_WP_CRON', true ); //Disables auto post publication
 
 define( 'EMPTY_TRASH_DAYS', 30 ); // 30 days
