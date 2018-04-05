@@ -4,6 +4,14 @@ The main objective of creating this project is to create a ready made WordPress 
 ### Why do you need WordPressLite?
 WordPressLite is copy, paste and starts running WordPress CMS without any configuration on the database side. I was being sick and tired to configure database in the WordPress CMS everytime to move from localhost to staging and staging to production. The migration is alwasy not smooth. WordPressLite has no database as it is flat file database. So, no database and configuration needed. Happy migration :-)
 
+### When do you use this package?
+Following is the list of conditions best suitable to use this package:
+1. If your website is small and medium sized. For large websites MySQL is best. 
+2. If you want to quickly create and setup WordPress website.
+3. If you want quickly migrate the website to various environment ie. staging and production without much hassle.
+4. If you want to do backup and maintenance of the website smoothly and quickly.
+5. If your website hosting has limitation of creating certain number of MySQL databases.
+
 ### How to use guide 
 - 1. Download the package
 - 2. Upload
