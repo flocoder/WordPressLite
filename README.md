@@ -34,12 +34,11 @@ WARNING! Please change the default password (Edit file dbconfig.php)
 Update WordPress core files, themes and plugins to the latest versions.
 
 ### Package includes
-- WordPress 4.5.3 package from (wordpress.org) 
+- WordPress 4.9.5 package from (wordpress.org) 
 - Flat file database with SQLite
 - phpLiteAdmin (https://bitbucket.org/phpliteadmin/public)
 - Comment Blacklist for WordPress (https://github.com/splorp/wordpress-comment-blacklist)
-- Twenty Sixteen WordPress theme
-- Shortcodes Ultimate Plugin by Vladimir Anokhin
+- Twenty Seventeen WordPress theme
 - SQLite Integration plugin by Kojima Toshiyasu
 
 ### Discalimer: By using WordPressLite you agree that you use the package by your own risk.
